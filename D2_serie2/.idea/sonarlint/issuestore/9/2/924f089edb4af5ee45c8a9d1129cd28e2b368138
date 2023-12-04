@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+L	java:S106
+"+Replace this use of System.out by a logger.(ûŒ¦Ëúÿÿÿÿ8ïË… Ã1
+L	java:S106"+Replace this use of System.out by a logger.(Œï–Ãÿÿÿÿÿ8ïË… Ã1
+L	java:S106"+Replace this use of System.out by a logger.(Æš ¶üÿÿÿÿ8ôË… Ã1
+G	java:S106"+Replace this use of System.out by a logger.(ãÜğº8ôË… Ã1
+L	java:S106"+Replace this use of System.out by a logger.(íºùÿÿÿÿ8ôË… Ã1
+>	java:S131""Add a default case to this switch.(™Ïêƒ8ôË… Ã1
