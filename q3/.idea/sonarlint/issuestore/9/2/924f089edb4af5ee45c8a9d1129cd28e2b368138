@@ -1,0 +1,15 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ²­–ùÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¶Q
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÁÅ“ıÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚çè‡
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¬ã
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "m".(¬Îã­
+7
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+<
+java:S1481"&Remove this unused "m" local variable.(¬Îã­
